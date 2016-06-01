@@ -14,7 +14,7 @@
       <img src="/lang-logo.png">
     </a>
     <h1>Hello, Welcome to Heroku</h1>    
-	<h3>This message from Nodejs</h3>  
+	<h3>This message from Java</h3>  
 	<h3>Author: Nagendra</h3>    
   </div>
 </div>
@@ -66,7 +66,7 @@
         <li><a href="https://devcenter.heroku.com/articles/deploying-java">Deploying Java Apps on Heroku</a></li>
       </ul>
     </div>
-  </div> <!-- row -->
+  </div> 
    <div class="alert alert-info text-center" role="alert">
     Please do work through the Getting Started guide, even if you do know how to build such an application.  The guide covers the basics of working with Heroku, and will familiarize you with all the concepts you need in order to build and deploy your own apps.
   </div>
