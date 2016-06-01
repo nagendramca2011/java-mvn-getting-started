@@ -5,9 +5,20 @@
 </head>
 
 <body>
-
+<!--
   <#include "nav.ftl">
-
+-->
+<div class="jumbotron text-center">
+  <div class="container">
+    <a href="/" class="lang-logo">
+      <img src="/lang-logo.png">
+    </a>
+    <h1>Hello, Welcome to Heroku</h1>    
+	<h3>This message from Nodejs</h3>  
+	<h3>Author: Nagendra</h3>    
+  </div>
+</div>
+<!--
 <div class="jumbotron text-center">
   <div class="container">
     <a href="/" class="lang-logo">
@@ -60,7 +71,7 @@
     Please do work through the Getting Started guide, even if you do know how to build such an application.  The guide covers the basics of working with Heroku, and will familiarize you with all the concepts you need in order to build and deploy your own apps.
   </div>
 </div>
-
+-->
 
 </body>
 </html>
